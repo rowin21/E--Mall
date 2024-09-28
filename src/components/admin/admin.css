@@ -1,0 +1,21 @@
+.options {
+    text-decoration: none;
+    border-bottom: 4px solid greenyellow;
+    color: white;
+}
+
+.options:hover{
+    text-decoration: underline;
+    background-color: rgb(35, 33, 33);
+    width: 100%;
+    color: beige;
+    
+
+}
+
+
+.navbar-toggler-icon {
+    color: white;
+    background-color: white;
+    
+}

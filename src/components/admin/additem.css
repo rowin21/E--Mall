@@ -1,0 +1,10 @@
+.additem {
+    background-color: rgb(184, 173, 173);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0%;
+    width: 90%;
+    margin-top: 150px;
+
+}
