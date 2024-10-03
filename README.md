@@ -1,12 +1,18 @@
 E-MALL
+
 E-Mall is a minimalist e-commerce platform designed to simplify the online shopping experience. It offers key features such as product browsing, order placement, payment processing, and admin functionality for managing products and orders.
 
 Technology Stack:
 Frontend: React.js, React-Bootstrap for responsive UI
+
 Backend: Node.js, Express.js for API development
+
 Database: MySQL for managing product, order, and user data
+
 Authentication: JWT (JSON Web Token) for secure session management
+
 Version Control: GitHub for repository management
+
 
 CUSTOMER SIDE
 
